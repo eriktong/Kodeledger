@@ -1,8 +1,9 @@
 # Kodeledger
 
+**Live Demo:** https://courageous-biscuit-bda87a.netlify.app/
+
 ![Pages Deploy](https://github.com/eriktong/Kodeledger/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/Kodeledger) 
 
-**Live Demo:** [https://eriktong.github.io/Kodeledger/](https://eriktong.github.io/Kodeledger/)
 
 > Ledger/accounting themed UI demo.
 
